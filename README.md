@@ -1,2 +1,1 @@
-# friendly-dollop-
-Conference Ticket Booking System - Golang
+# Conference Ticket Booking System - Golang-
